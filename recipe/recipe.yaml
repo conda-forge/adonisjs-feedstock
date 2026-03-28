@@ -1,6 +1,6 @@
 context:
   name: adonisjs
-  version: "7.2.0"
+  version: "7.3.0"
 
 package:
   name: ${{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@adonisjs/core/-/core-${{ version }}.tgz
-  sha256: e5ad40b6a59c9d64b21bf2c2bf842d285bcc2eb245af235755b7434689fb957b
+  sha256: ce45741561c5476500842c84fa86b29c7f26e8f7383dd8e79cec99e80c25b6cc
 
 build:
   number: 0
